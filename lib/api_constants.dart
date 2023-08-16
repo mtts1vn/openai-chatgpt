@@ -2,7 +2,7 @@
 const endpoint = 'https://api.openai.com/v1/';
 
 /// API key
-const aiToken = 'OPENIA API KEY';
+const aiToken = '[put token here]';
 
 /// Email for Gravatar image
-const emailAddress = 'YOUR EMAIL';
+const emailAddress = '[insert email for gravatar]';
